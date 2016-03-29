@@ -9,9 +9,9 @@ We would love to see how you use this awesome admin template. You can notify us 
 
 
 ## Theme Demo
-![Team Green Bootstrap Admin Template](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg "Team Green Theme Browser Preview")
+![Team Green Bootstrap Admin Template](https://raw.githubusercontent.com/vishwaraj00/gentelella/master/Preview.png "Team Green Theme Browser Preview")
 
-**[Template Demo](https://colorlib.com/polygon/gentelella/index.html)**
+**[Template Demo](https://raw.githubusercontent.com/vishwaraj00/gentelella/master/Preview.png)**
 
 ## Scripts included:
 * Bootstrap
