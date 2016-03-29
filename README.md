@@ -1,11 +1,11 @@
 # Team Green
 
-Gentellela Admin is a free to use Bootstrap admin template.
+This template is forked from Gentellela Admin, free to use over Bootstrap admin template. Original author is [@colorlib](https://twitter.com/colorlib)
 This template uses the default Bootstrap 3 styles along with a variety of powerful jQuery plugins and tools to create a powerful framework for creating admin panels or back-end dashboards.
 
 Theme uses several libraries for charts, calendar, from validation, wizard style interface, off-canvas navigation menu, text forms, date range, upload area, form autocomplete, range slider, progress bars, notifications and much more.
 
-We would love to see how you use this awesome admin template. You can notify us about your site, app or service by tweeting to [@colorlib](https://twitter.com/colorlib). Once the list will grown long enough we will write a post similar to [this](https://colorlib.com/wp/avada-theme-examples/) to showcase the best examples.
+You can notify us about your site, app or service by tweeting to [@vishwarajanand](https://twitter.com/vishwarajanand).
 
 
 ## Theme Demo
@@ -62,6 +62,6 @@ We would love to see how you use this awesome admin template. You can notify us 
 * [WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/ "List of Free WordPress themes by Colorlib") - A huge selection of the best free WordPress themes that are all licensed under GPL and are available for personal and commercial use without restrictions.
 
 ## License information
-Gentellela is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software. But you always need to state that Colorlib is the original author of this template.
+This is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software. But you always need to state that Colorlib is the original author of this template.
 
-Project is developed and maintained by [Colorlib](https://colorlib.com/ "Colorlib - Make Your First Blog") and Aigars Silkalns
+Project was developed and maintained originally by [Colorlib](https://colorlib.com/ "Colorlib - Make Your First Blog") and Aigars Silkalns. Now, this is forked off from original and is maintained and owned by [Vishwaraj Anand](https://github.com/vishwaraj00/gentelella).
